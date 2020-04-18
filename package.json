@@ -1,5 +1,6 @@
 {
   "name": "corona-tracker-app",
+  "homepage": "http://vishalthakur054.github.io/corona-tracker-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
